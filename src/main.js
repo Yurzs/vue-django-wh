@@ -20,7 +20,8 @@ new Vue({
   router,
   components: { Account },
   template: '<Account/>'
-})
+});
+let test = 0
 
 
 
