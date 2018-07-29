@@ -1,0 +1,62 @@
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: normal;
+	font-style: normal;
+	src: url("/static/fonts/RalewayRegular/RalewayRegular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: bold;
+	font-style: normal;
+	src: url("/static/fonts/RalewayBold/RalewayBold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: 800;
+	font-style: normal;
+	src: url("/static/fonts/RalewayExtraBold/RalewayExtraBold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: 300;
+	font-style: normal;
+	src: url("/static/fonts/RalewayLight/RalewayLight.woff") format("woff");
+}
+
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: 600;
+	font-style: normal;
+	src: url("/static/fonts/RalewaySemiBold/RalewaySemiBold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "raleway-ex";
+	font-weight: 100;
+	font-style: normal;
+	src: url("/static/fonts/RalewayThin/RalewayThin.woff") format("woff");
+}
+
+@font-face {
+	font-family: "firasans-ex";
+	font-weight: normal;
+	font-style: normal;
+	src: url("/static/fonts/FiraSansRegular/FiraSansRegular.woff") format("woff");
+}
+
+@font-face {
+	font-family: "firasans-ex";
+	font-weight: bold;
+	font-style: normal;
+	src: url("/static/fonts/FiraSansRegular/FiraSans-Bold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "FontAwesome";
+	font-weight: normal;
+	font-style: normal;
+	src: url("/static/fonts/fontawesome/fontawesome-webfont.woff") format("woff");
+}

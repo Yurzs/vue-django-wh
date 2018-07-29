@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4c77a6;
+        stroke: #4065b4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_13);
+      }
+    </style>
+    <filter id="Rectangle_13" x="0" y="0" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(-126 -13)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 126, 13)">
+      <g id="Rectangle_13-2" data-name="Rectangle 13" class="cls-1" transform="translate(9 6)">
+        <rect class="cls-3" width="58" height="58" rx="5"/>
+        <rect class="cls-4" x="0.5" y="0.5" width="57" height="57" rx="4.5"/>
+      </g>
+    </g>
+    <path id="ic_head_logo" class="cls-2" d="M37.428,1.528C37.692.647,37.428,0,36.171,0H32.014a1.8,1.8,0,0,0-1.809,1.176,34.776,34.776,0,0,1-5.109,8.5c-.969.969-1.409,1.277-1.938,1.277-.264,0-.661-.308-.661-1.189V1.528C22.5.471,22.2,0,21.324,0H14.791a1,1,0,0,0-1.058.956c0,1,1.5,1.233,1.652,4.052v6.122c0,1.342-.242,1.586-.771,1.586-1.409,0-4.837-5.176-6.871-11.1C7.345.465,6.945,0,5.883,0H1.725C.538,0,.3.559.3,1.176c0,1.1,1.409,6.562,6.562,13.785,3.435,4.933,8.275,7.607,12.68,7.607,2.643,0,2.969-.594,2.969-1.617V17.223c0-1.188.25-1.425,1.087-1.425.617,0,1.674.308,4.14,2.687,2.819,2.819,3.283,4.083,4.869,4.083h4.157c1.188,0,1.782-.594,1.439-1.766-.375-1.168-1.721-2.863-3.506-4.872-.969-1.145-2.422-2.378-2.863-2.995-.617-.793-.44-1.145,0-1.85C31.835,11.085,36.9,3.95,37.428,1.528Z" transform="translate(144.7 37)"/>
+  </g>
+</svg>

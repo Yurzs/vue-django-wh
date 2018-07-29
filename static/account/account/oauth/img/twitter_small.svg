@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 76 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #1da1f2;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #1da1f2;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_14);
+      }
+    </style>
+    <filter id="Rectangle_14" x="0" y="0" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-190 -13)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 190, 13)">
+      <g id="Rectangle_14-2" data-name="Rectangle 14" class="cls-1" transform="translate(9 6)">
+        <rect class="cls-4" width="58" height="58" rx="5"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="57" height="57" rx="4.5"/>
+      </g>
+    </g>
+    <g id="Twitter_Logo_Blue" transform="translate(202 22)">
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="52" height="52"/>
+      <path id="Path_1" data-name="Path 1" class="cls-3" d="M85.221,124.858c12.264,0,18.972-10.161,18.972-18.972,0-.289,0-.576-.02-.862a13.566,13.566,0,0,0,3.327-3.451,13.31,13.31,0,0,1-3.83,1.049,6.691,6.691,0,0,0,2.931-3.688,13.363,13.363,0,0,1-4.234,1.618A6.674,6.674,0,0,0,91,106.634a18.931,18.931,0,0,1-13.742-6.967,6.673,6.673,0,0,0,2.064,8.9,6.619,6.619,0,0,1-3.026-.835v.085a6.67,6.67,0,0,0,5.35,6.536,6.657,6.657,0,0,1-3.011.114,6.675,6.675,0,0,0,6.23,4.631,13.38,13.38,0,0,1-8.281,2.86,13.573,13.573,0,0,1-1.587-.1,18.877,18.877,0,0,0,10.221,2.99" transform="translate(-65.25 -85.652)"/>
+    </g>
+  </g>
+</svg>
