@@ -2,7 +2,7 @@
   "name": "wh-club.ru",
   "version": "1.0.0",
   "description": "WH-CLUB.RU Vue.js Project",
-  "author": "Yurzs <yurzs@icloud.com>",
+  "author": "Yurzs",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
